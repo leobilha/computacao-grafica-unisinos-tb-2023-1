@@ -45,19 +45,33 @@
 
 ### Comandos de uso
 
-tecla 1	Seleciona o primeiro objeto
-tecla 2	Seleciona o segundo objeto
-tecla W	translata o objeto +N unidades no eixo Y
-tecla S	translata o objeto -N unidades no eixo Y
-tecla A	translata o objeto -N unidades no eixo X
-tecla D	translata o objeto +N unidades no eixo X
-tecla E	rotaciona N graus para direita em relação ao eixo Y
-tecla Q	rotaciona N graus para a esquerda em relação ao eixo Y
-tecla Z	rotaciona N graus para direita em relação ao eixo X
-tecla C	rotaciona N graus para a esquerda em relação ao eixo X
-tecla Tab	rotaciona N graus para direita em relação ao eixo Z
-tecla Capslock rotaciona N graus para direita em relação ao eixo Z
-tecla →	move câmera para direita
-tecla ←	move câmera para esquerda
-tecla ↑	move câmera para frente
-tecla ↓	move câmera para trás
+>tecla 1	Seleciona o primeiro objeto
+>
+>tecla 2	Seleciona o segundo objeto
+>
+>tecla W	translata o objeto +N unidades no eixo Y
+>
+>tecla S	translata o objeto -N unidades no eixo Y
+>
+>tecla A	translata o objeto -N unidades no eixo X
+>
+>tecla D	translata o objeto +N unidades no eixo X
+>
+>tecla E	rotaciona N graus para direita em relação ao eixo Y
+>
+>tecla Q	rotaciona N graus para a esquerda em relação ao eixo Y
+>
+>tecla Z	rotaciona N graus para direita em relação ao eixo X
+>
+>tecla C	rotaciona N graus para a esquerda em relação ao eixo X
+>
+>tecla Tab	rotaciona N graus para direita em relação ao eixo Z
+>
+>tecla Capslock rotaciona N graus para direita em relação ao eixo Z
+>tecla →	move câmera para direita
+>
+>tecla ←	move câmera para esquerda
+>
+>tecla ↑	move câmera para frente
+>
+>tecla ↓	move câmera para trás
