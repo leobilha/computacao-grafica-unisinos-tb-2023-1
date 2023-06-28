@@ -2,7 +2,7 @@
 
 # Trabalho do Grau B - Computação Gráfica - 2023/1
 
-![GifGB.gif…]()
+![](https://github.com/leobilha/computacao-grafica-unisinos-tb-2023-1/blob/main/GifGB.gif)
 
 ### Passo para clonar, compilar e executar o programa: 
 
