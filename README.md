@@ -2,6 +2,8 @@
 
 # Trabalho do Grau B - Computação Gráfica - 2023/1
 
+![Uploading GifGB.gif…]()
+
 ### Passo para clonar, compilar e executar o programa: 
 
 > Execute o seguinte comando no cmd: 
